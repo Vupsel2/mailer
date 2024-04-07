@@ -10,6 +10,8 @@
 6. Введите почту и пароль отправителя в настройках(для Gmail создайте ключ двойной аутентификации и введите его в поле пароля)
 7.Затем жмите кнопку отправить и начнеться генерация и отправка всех шаблонов на соответствующие адреса
 
+что бы использовать .exe файл вносите свою базу данных в shablon.txt 
+
 
 
 The program is an automatic system for filling out certificates or other files with text and sending them to the post office
@@ -24,6 +26,9 @@ Instructions
 6. Enter the sender's e-mail and password in the settings (for Gmail, create a double authentication key and enter it in the password field).
 7.Then click send button and all templates will be generated and sent to the corresponding addresses.
 
+To use the .exe file, enter your database in shablon.txt. 
 
 
-Translated with www.DeepL.com/Translator (free version)
+
+
+
